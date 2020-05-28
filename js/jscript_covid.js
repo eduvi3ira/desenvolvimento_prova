@@ -6,8 +6,8 @@ google.charts.load('current', {'packages':['corechart']});
           ['Data', 'Casos Confirmados'],
           ['1 de fev. de 2020',  11953],
           ['1 de mar. de 2020',  87137],
-          ['1 de abr. de 2020',  750867],
-          ['1 de mai. de 2020',  3090445]
+          ['1 de abr. de 2020',  823604],
+          ['1 de mai. de 2020',  3175207]
         ]);
 
         var options = {
